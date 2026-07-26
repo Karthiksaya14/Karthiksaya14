@@ -16,6 +16,11 @@ Recent experiments:
 - LLM Finetuning
 - Core ML
 
+Currently learning:
+  - Evals
+  - RLVR
+  - RL Env For LLMs
+  - Memory
 Most repositories are experiments.
 Some become products.
 
