@@ -4,15 +4,16 @@ Building AI systems.
 
 Current project:
 
+Reflex Code(terminal agent)
 
 RetailSense AI
 
 Recent experiments:
 
 - RAG
-- LangGraph
 - Computer Vision
 - AI Harness
+- RL & Evals
 - LLM Finetuning
 - Core ML
 
